@@ -1,5 +1,5 @@
 let config = {
-    database: 'test', // Which Database
+    database: 'test',
     username: 'root',
     password: '000000',
     host: 'localhost',
